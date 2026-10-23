@@ -1,0 +1,40 @@
+.quick-modal{display:block}.quick-content{display:grid;grid-template-columns:.85fr 1fr}.quick-content .quick-visual{min-height:340px}.quick-content .quick-details{padding:45px 28px 28px}
+@media(max-width:700px){.quick-content{grid-template-columns:1fr}.quick-content .quick-visual{min-height:175px}.quick-content .quick-details{padding:20px}}
+
+/* Terminación más recta y robusta para la identidad de ferretería. */
+*{border-radius:2px!important}
+.icon-button,.cart-trigger b,.hero .eyebrow i,.open-badge i,.hero-sticker,.product-mark,.product-stock i,.social-links a{border-radius:50%!important}
+
+/* Ajustes de jerarquía y lectura para el inicio. */
+.header-search{max-width:none}
+.hero{padding-top:54px}
+.hero-grid{padding-bottom:16px}
+.hero h1 em,h1 em,h2 em{color:var(--accent)}
+.hero-quick-links{display:flex;flex-wrap:wrap;align-items:center;gap:8px;margin:20px 0 16px}
+.hero-quick-links>span{margin-right:4px;color:var(--ink-2);font-size:10px;font-weight:700;letter-spacing:.1em}
+.hero-quick-links a{padding:6px 10px;border:1px solid var(--line);background:var(--surface);color:var(--ink-2);font-size:11px;font-weight:600}
+.hero-quick-links a:hover{border-color:var(--accent);background:var(--accent);color:#1f2328}
+.trust-row.container{grid-column:1/-1;width:100%;height:auto;min-height:50px;margin-inline:0;justify-content:flex-start;gap:22px;padding-block:10px;border-color:var(--line);color:var(--ink-2);font-size:10px;letter-spacing:.08em}
+.trust-row span:nth-child(even){color:var(--accent);font-size:12px}
+.hero-proof{font-size:12px;color:var(--ink-2)}
+.topline,.topline .top-inner{font-size:11px;color:#fff}
+.category-section{padding-top:30px}
+.category-card>span{display:grid;width:52px;height:52px;place-items:center;background:var(--surface-2);color:var(--ink)}
+.category-card .icon{width:36px;height:36px}
+.category-card small{font-size:10px;color:var(--ink-2)}
+@media(max-width:700px){
+  .hero{padding-top:35px}
+  .hero-grid{padding-bottom:16px}
+  .trust-row.container{gap:6px 10px;padding-block:10px}
+  .trust-row span:nth-child(even){display:none}
+  .category-section{padding-top:28px}
+  .category-card>span{width:48px;height:48px}
+  .category-card .icon{width:34px;height:34px}
+}
+.social-links a{display:grid;width:36px;height:36px;place-items:center;padding:0}
+.social-links .social-icon{width:18px;height:18px}
+.footer-bottom .developer-credit{display:flex;align-items:center;gap:8px;color:#e8e4d8;font-size:10px}
+.developer-credit img{display:block;width:36px;height:36px;object-fit:contain}
+.footer-bottom .developer-credit a{display:inline-flex;color:inherit}
+.footer-bottom .developer-credit a:hover{color:var(--accent)}
+@media(max-width:700px){.footer-bottom .developer-credit{justify-content:center}}

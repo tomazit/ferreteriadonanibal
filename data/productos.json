@@ -1,0 +1,1184 @@
+[
+  {
+    "id": "HM-001",
+    "nombre": "Martillo de uña 20 oz",
+    "categoria": "Herramientas manuales",
+    "marca": "Bremen",
+    "precio": 18900,
+    "stock": 18,
+    "descripcion": "Cabeza forjada y mango antideslizante para uso diario.",
+    "etiquetas": [
+      "más vendido",
+      "acero"
+    ]
+  },
+  {
+    "id": "HM-002",
+    "nombre": "Set de destornilladores 6 piezas",
+    "categoria": "Herramientas manuales",
+    "marca": "Stanley",
+    "precio": 24500,
+    "stock": 9,
+    "descripcion": "Puntas planas y Phillips con mango ergonómico.",
+    "etiquetas": [
+      "kit",
+      "oferta"
+    ]
+  },
+  {
+    "id": "HM-003",
+    "nombre": "Pinza universal 8 pulgadas",
+    "categoria": "Herramientas manuales",
+    "marca": "Bremen",
+    "precio": 17200,
+    "stock": 2,
+    "descripcion": "Agarre firme y filos templados de alta durabilidad.",
+    "etiquetas": [
+      "últimas unidades"
+    ]
+  },
+  {
+    "id": "HM-004",
+    "nombre": "Llave francesa 10 pulgadas",
+    "categoria": "Herramientas manuales",
+    "marca": "Crossmaster",
+    "precio": 28900,
+    "stock": 7,
+    "descripcion": "Apertura regulable con escala grabada en milímetros.",
+    "etiquetas": [
+      "profesional"
+    ]
+  },
+  {
+    "id": "HM-005",
+    "nombre": "Cinta métrica 5 m reforzada",
+    "categoria": "Herramientas manuales",
+    "marca": "Stanley",
+    "precio": 11200,
+    "stock": 24,
+    "descripcion": "Cinta con freno, gancho magnético y carcasa resistente.",
+    "etiquetas": [
+      "más vendido"
+    ]
+  },
+  {
+    "id": "HM-006",
+    "nombre": "Nivel de aluminio 60 cm",
+    "categoria": "Herramientas manuales",
+    "marca": "Bremen",
+    "precio": 15800,
+    "stock": 6,
+    "descripcion": "Tres burbujas de lectura y cuerpo de aluminio liviano.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "HM-007",
+    "nombre": "Arco de sierra 12 pulgadas",
+    "categoria": "Herramientas manuales",
+    "marca": "Stanley",
+    "precio": 14900,
+    "stock": 10,
+    "descripcion": "Marco metálico con tensión regulable para cortes limpios.",
+    "etiquetas": [
+      "corte"
+    ]
+  },
+  {
+    "id": "HE-001",
+    "nombre": "Taladro percutor 650 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Bosch",
+    "precio": 149900,
+    "stock": 5,
+    "descripcion": "Velocidad variable y función percutora para mampostería.",
+    "etiquetas": [
+      "más vendido",
+      "oferta"
+    ]
+  },
+  {
+    "id": "HE-002",
+    "nombre": "Amoladora angular 115 mm 750 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "DeWalt",
+    "precio": 132500,
+    "stock": 3,
+    "descripcion": "Potencia y control para corte y desbaste en obra.",
+    "etiquetas": [
+      "profesional"
+    ]
+  },
+  {
+    "id": "HE-003",
+    "nombre": "Atornillador inalámbrico 12 V",
+    "categoria": "Herramientas eléctricas",
+    "marca": "DeWalt",
+    "precio": 219000,
+    "stock": 0,
+    "descripcion": "Dos baterías, cargador y maletín incluidos.",
+    "etiquetas": [
+      "inalámbrico"
+    ]
+  },
+  {
+    "id": "HE-004",
+    "nombre": "Mecha para pared 8 mm",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Bosch",
+    "precio": 6900,
+    "stock": 31,
+    "descripcion": "Punta de carburo para perforaciones precisas.",
+    "etiquetas": [
+      "accesorio"
+    ]
+  },
+  {
+    "id": "HE-005",
+    "nombre": "Prolongador eléctrico 10 m",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Kalop",
+    "precio": 22400,
+    "stock": 8,
+    "descripcion": "Cable reforzado con tomacorriente de uso industrial.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "HE-006",
+    "nombre": "Disco de corte metal 115 mm",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Tyrolit",
+    "precio": 3200,
+    "stock": 45,
+    "descripcion": "Corte rápido con bajo espesor y buen rendimiento.",
+    "etiquetas": [
+      "consumible"
+    ]
+  },
+  {
+    "id": "HE-007",
+    "nombre": "Lijadora orbital 240 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Bosch",
+    "precio": 184900,
+    "stock": 2,
+    "descripcion": "Base con velcro y sistema de aspiración de polvo.",
+    "etiquetas": [
+      "últimas unidades"
+    ]
+  },
+  {
+    "id": "PL-001",
+    "nombre": "Canilla monocomando para cocina",
+    "categoria": "Plomería",
+    "marca": "FV",
+    "precio": 112900,
+    "stock": 4,
+    "descripcion": "Cierre cerámico y acabado cromado de fácil limpieza.",
+    "etiquetas": [
+      "más vendido",
+      "oferta"
+    ]
+  },
+  {
+    "id": "PL-002",
+    "nombre": "Flexible mallado 40 cm 1/2 pulgada",
+    "categoria": "Plomería",
+    "marca": "Hidro 3",
+    "precio": 6800,
+    "stock": 26,
+    "descripcion": "Conexión flexible reforzada para agua fría o caliente.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "PL-003",
+    "nombre": "Sifón extensible para pileta",
+    "categoria": "Plomería",
+    "marca": "Duratop",
+    "precio": 7400,
+    "stock": 13,
+    "descripcion": "Sifón universal adaptable a distintas instalaciones.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "PL-004",
+    "nombre": "Cinta teflón 12 mm x 10 m",
+    "categoria": "Plomería",
+    "marca": "Tacsa",
+    "precio": 1600,
+    "stock": 50,
+    "descripcion": "Sellado confiable de roscas en conexiones de agua.",
+    "etiquetas": [
+      "consumible"
+    ]
+  },
+  {
+    "id": "PL-005",
+    "nombre": "Caño PVC 3 m 40 mm",
+    "categoria": "Plomería",
+    "marca": "Awaduct",
+    "precio": 8900,
+    "stock": 12,
+    "descripcion": "Tubo para desagüe domiciliario, liviano y resistente.",
+    "etiquetas": [
+      "PVC"
+    ]
+  },
+  {
+    "id": "PL-006",
+    "nombre": "Válvula para tanque 1/2 pulgada",
+    "categoria": "Plomería",
+    "marca": "FV",
+    "precio": 15600,
+    "stock": 1,
+    "descripcion": "Repuesto de cierre preciso para tanque de agua.",
+    "etiquetas": [
+      "repuesto"
+    ]
+  },
+  {
+    "id": "PL-007",
+    "nombre": "Rejilla acero inoxidable 10 x 10 cm",
+    "categoria": "Plomería",
+    "marca": "Hidro 3",
+    "precio": 4100,
+    "stock": 23,
+    "descripcion": "Terminación durable para desagües de piso.",
+    "etiquetas": [
+      "baño"
+    ]
+  },
+  {
+    "id": "EL-001",
+    "nombre": "Tomacorriente doble 10 A",
+    "categoria": "Electricidad",
+    "marca": "Kalop",
+    "precio": 5900,
+    "stock": 22,
+    "descripcion": "Módulo blanco con borne seguro y diseño moderno.",
+    "etiquetas": [
+      "más vendido"
+    ]
+  },
+  {
+    "id": "EL-002",
+    "nombre": "Cable unipolar 2,5 mm rojo 10 m",
+    "categoria": "Electricidad",
+    "marca": "Prysmian",
+    "precio": 12900,
+    "stock": 17,
+    "descripcion": "Cable normalizado para instalaciones domiciliarias.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "EL-003",
+    "nombre": "Disyuntor diferencial 25 A",
+    "categoria": "Electricidad",
+    "marca": "Sica",
+    "precio": 38500,
+    "stock": 6,
+    "descripcion": "Protección diferencial para tableros eléctricos.",
+    "etiquetas": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "EL-004",
+    "nombre": "Térmica bipolar 20 A",
+    "categoria": "Electricidad",
+    "marca": "Schneider",
+    "precio": 21900,
+    "stock": 0,
+    "descripcion": "Interruptor termomagnético de montaje en riel DIN.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "EL-005",
+    "nombre": "Portalámpara cerámico E27",
+    "categoria": "Electricidad",
+    "marca": "Cambre",
+    "precio": 2800,
+    "stock": 19,
+    "descripcion": "Apto para lámparas de uso doméstico y alta temperatura.",
+    "etiquetas": [
+      "iluminación"
+    ]
+  },
+  {
+    "id": "EL-006",
+    "nombre": "Reflector LED 50 W exterior",
+    "categoria": "Electricidad",
+    "marca": "Macroled",
+    "precio": 27500,
+    "stock": 10,
+    "descripcion": "Luz fría de alto rendimiento con protección IP65.",
+    "etiquetas": [
+      "exterior"
+    ]
+  },
+  {
+    "id": "EL-007",
+    "nombre": "Lámpara LED A60 9 W luz cálida",
+    "categoria": "Electricidad",
+    "marca": "Macroled",
+    "precio": 2900,
+    "stock": 34,
+    "descripcion": "Bajo consumo y luz confortable para el hogar.",
+    "etiquetas": [
+      "iluminación"
+    ]
+  },
+  {
+    "id": "PI-001",
+    "nombre": "Látex interior blanco 20 L",
+    "categoria": "Pinturas",
+    "marca": "Alba",
+    "precio": 89400,
+    "stock": 7,
+    "descripcion": "Pintura lavable de gran cobertura para interiores.",
+    "etiquetas": [
+      "más vendido",
+      "oferta"
+    ]
+  },
+  {
+    "id": "PI-002",
+    "nombre": "Esmalte sintético brillante 1 L",
+    "categoria": "Pinturas",
+    "marca": "Sherwin Williams",
+    "precio": 24700,
+    "stock": 11,
+    "descripcion": "Protección duradera para metal y madera.",
+    "etiquetas": [
+      "interior/exterior"
+    ]
+  },
+  {
+    "id": "PI-003",
+    "nombre": "Rodillo antigota 22 cm",
+    "categoria": "Pinturas",
+    "marca": "Doble A",
+    "precio": 8900,
+    "stock": 15,
+    "descripcion": "Terminación pareja en paredes con mínimo salpicado.",
+    "etiquetas": [
+      "accesorio"
+    ]
+  },
+  {
+    "id": "PI-004",
+    "nombre": "Enduido interior 4 L",
+    "categoria": "Pinturas",
+    "marca": "Tersuave",
+    "precio": 16800,
+    "stock": 1,
+    "descripcion": "Rellena imperfecciones y deja superficies lisas.",
+    "etiquetas": [
+      "últimas unidades"
+    ]
+  },
+  {
+    "id": "PI-005",
+    "nombre": "Fijador sellador concentrado 1 L",
+    "categoria": "Pinturas",
+    "marca": "Alba",
+    "precio": 11800,
+    "stock": 9,
+    "descripcion": "Mejora la adherencia de pintura sobre paredes nuevas.",
+    "etiquetas": [
+      "preparación"
+    ]
+  },
+  {
+    "id": "PI-006",
+    "nombre": "Pincel cerda mixta 2 pulgadas",
+    "categoria": "Pinturas",
+    "marca": "Doble A",
+    "precio": 6400,
+    "stock": 21,
+    "descripcion": "Pincel versátil para sintéticos y pinturas al agua.",
+    "etiquetas": [
+      "accesorio"
+    ]
+  },
+  {
+    "id": "PI-007",
+    "nombre": "Lija al agua grano 120",
+    "categoria": "Pinturas",
+    "marca": "Norton",
+    "precio": 950,
+    "stock": 40,
+    "descripcion": "Hoja abrasiva para preparación y terminación fina.",
+    "etiquetas": [
+      "consumible"
+    ]
+  },
+  {
+    "id": "JA-001",
+    "nombre": "Manguera reforzada 1/2 pulgada 15 m",
+    "categoria": "Jardín",
+    "marca": "Kushiro",
+    "precio": 31900,
+    "stock": 8,
+    "descripcion": "Flexible, resistente a la intemperie y fácil de enrollar.",
+    "etiquetas": [
+      "más vendido"
+    ]
+  },
+  {
+    "id": "JA-002",
+    "nombre": "Pala de punta con cabo",
+    "categoria": "Jardín",
+    "marca": "Tramontina",
+    "precio": 22900,
+    "stock": 5,
+    "descripcion": "Hoja de acero robusta para tareas de jardín y huerta.",
+    "etiquetas": [
+      "jardinería"
+    ]
+  },
+  {
+    "id": "JA-003",
+    "nombre": "Tijera de podar 8 pulgadas",
+    "categoria": "Jardín",
+    "marca": "Bahco",
+    "precio": 28400,
+    "stock": 2,
+    "descripcion": "Corte limpio en ramas con empuñadura cómoda.",
+    "etiquetas": [
+      "poda"
+    ]
+  },
+  {
+    "id": "JA-004",
+    "nombre": "Aspersor circular con base",
+    "categoria": "Jardín",
+    "marca": "Kushiro",
+    "precio": 7900,
+    "stock": 16,
+    "descripcion": "Riego uniforme para patios y jardines medianos.",
+    "etiquetas": [
+      "riego"
+    ]
+  },
+  {
+    "id": "JA-005",
+    "nombre": "Pistola de riego regulable",
+    "categoria": "Jardín",
+    "marca": "Kushiro",
+    "precio": 8900,
+    "stock": 0,
+    "descripcion": "Múltiples patrones de riego con conexión rápida.",
+    "etiquetas": [
+      "riego"
+    ]
+  },
+  {
+    "id": "FI-001",
+    "nombre": "Tornillo para madera 6 x 2 pulgadas (100 u)",
+    "categoria": "Fijaciones",
+    "marca": "Fixser",
+    "precio": 9800,
+    "stock": 20,
+    "descripcion": "Rosca profunda para uniones firmes en madera.",
+    "etiquetas": [
+      "más vendido"
+    ]
+  },
+  {
+    "id": "FI-002",
+    "nombre": "Tarugo nylon 8 mm (50 unidades)",
+    "categoria": "Fijaciones",
+    "marca": "Fischer",
+    "precio": 5200,
+    "stock": 28,
+    "descripcion": "Fijación confiable en hormigón y mampostería.",
+    "etiquetas": [
+      "kit"
+    ]
+  },
+  {
+    "id": "FI-003",
+    "nombre": "Clavo punta París 2 pulgadas 1 kg",
+    "categoria": "Fijaciones",
+    "marca": "Acindar",
+    "precio": 7900,
+    "stock": 14,
+    "descripcion": "Clavo de acero para carpintería y construcción.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "FI-004",
+    "nombre": "Tirafondo hexagonal 1/4 x 3 pulgadas",
+    "categoria": "Fijaciones",
+    "marca": "Fixser",
+    "precio": 850,
+    "stock": 0,
+    "descripcion": "Unión de alta resistencia para madera y soportes.",
+    "etiquetas": [
+      "fijación"
+    ]
+  },
+  {
+    "id": "FI-005",
+    "nombre": "Candado de bronce 40 mm",
+    "categoria": "Fijaciones",
+    "marca": "Trabex",
+    "precio": 14800,
+    "stock": 9,
+    "descripcion": "Cuerpo macizo con dos llaves de seguridad.",
+    "etiquetas": [
+      "seguridad"
+    ]
+  },
+  {
+    "id": "SE-001",
+    "nombre": "Guantes moteados de algodón",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 3900,
+    "stock": 32,
+    "descripcion": "Protección liviana con puntos antideslizantes.",
+    "etiquetas": [
+      "más vendido"
+    ]
+  },
+  {
+    "id": "SE-002",
+    "nombre": "Anteojos de seguridad transparentes",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 6800,
+    "stock": 18,
+    "descripcion": "Lentes envolventes con protección contra impactos.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "SE-003",
+    "nombre": "Casco de seguridad amarillo",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 17900,
+    "stock": 6,
+    "descripcion": "Casco regulable para protección en obra.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "SE-004",
+    "nombre": "Protector auditivo copa",
+    "categoria": "Seguridad",
+    "marca": "3M",
+    "precio": 22500,
+    "stock": 3,
+    "descripcion": "Atenúa el ruido en trabajos con maquinaria.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "SE-005",
+    "nombre": "Chaleco reflectivo naranja",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 12900,
+    "stock": 12,
+    "descripcion": "Alta visibilidad para trabajos en exteriores.",
+    "etiquetas": [
+      "visibilidad"
+    ]
+  },
+  {
+    "id": "HM-008",
+    "nombre": "Alicate de punta larga 6 pulgadas",
+    "categoria": "Herramientas manuales",
+    "marca": "Bremen",
+    "precio": 13900,
+    "stock": 8,
+    "descripcion": "Puntas finas para manipular cables y piezas pequeñas.",
+    "etiquetas": [
+      "electricidad"
+    ]
+  },
+  {
+    "id": "HM-009",
+    "nombre": "Llave tubo crique con tubos 10 piezas",
+    "categoria": "Herramientas manuales",
+    "marca": "Crossmaster",
+    "precio": 35900,
+    "stock": 4,
+    "descripcion": "Set compacto de tubos métricos para mantenimiento.",
+    "etiquetas": [
+      "kit"
+    ]
+  },
+  {
+    "id": "HM-010",
+    "nombre": "Cutter profesional con traba metálica",
+    "categoria": "Herramientas manuales",
+    "marca": "Stanley",
+    "precio": 7900,
+    "stock": 16,
+    "descripcion": "Hoja segmentada de 18 mm y cuerpo reforzado.",
+    "etiquetas": [
+      "corte"
+    ]
+  },
+  {
+    "id": "HM-011",
+    "nombre": "Serrucho carpintero 20 pulgadas",
+    "categoria": "Herramientas manuales",
+    "marca": "Bahco",
+    "precio": 24900,
+    "stock": 5,
+    "descripcion": "Dentado universal para cortes rápidos en madera.",
+    "etiquetas": [
+      "carpintería"
+    ]
+  },
+  {
+    "id": "HM-012",
+    "nombre": "Prensa sargento rápida 300 mm",
+    "categoria": "Herramientas manuales",
+    "marca": "Bremen",
+    "precio": 18200,
+    "stock": 7,
+    "descripcion": "Sujeción de una mano para armado y encolado.",
+    "etiquetas": [
+      "taller"
+    ]
+  },
+  {
+    "id": "HM-013",
+    "nombre": "Juego de llaves Allen métricas 9 piezas",
+    "categoria": "Herramientas manuales",
+    "marca": "Crossmaster",
+    "precio": 11900,
+    "stock": 10,
+    "descripcion": "Medidas de 1,5 a 10 mm con soporte organizador.",
+    "etiquetas": [
+      "kit"
+    ]
+  },
+  {
+    "id": "HE-008",
+    "nombre": "Taladro atornillador 18 V con batería",
+    "categoria": "Herramientas eléctricas",
+    "marca": "DeWalt",
+    "precio": 329000,
+    "stock": 3,
+    "descripcion": "Mandril rápido, dos velocidades y batería de litio.",
+    "etiquetas": [
+      "profesional",
+      "inalámbrico"
+    ]
+  },
+  {
+    "id": "HE-009",
+    "nombre": "Sierra circular 7 1/4 pulgadas 1400 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Bosch",
+    "precio": 245000,
+    "stock": 2,
+    "descripcion": "Corte regulable en profundidad para trabajos de madera.",
+    "etiquetas": [
+      "profesional"
+    ]
+  },
+  {
+    "id": "HE-010",
+    "nombre": "Pistola de calor 2000 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Gamma",
+    "precio": 68900,
+    "stock": 6,
+    "descripcion": "Dos niveles de temperatura para múltiples tareas.",
+    "etiquetas": [
+      "taller"
+    ]
+  },
+  {
+    "id": "HE-011",
+    "nombre": "Mecha para madera 10 mm",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Bosch",
+    "precio": 4200,
+    "stock": 22,
+    "descripcion": "Punta centradora para perforaciones limpias.",
+    "etiquetas": [
+      "accesorio"
+    ]
+  },
+  {
+    "id": "HE-012",
+    "nombre": "Disco diamantado turbo 115 mm",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Tyrolit",
+    "precio": 11900,
+    "stock": 11,
+    "descripcion": "Para corte de cerámica, piedra y materiales de obra.",
+    "etiquetas": [
+      "consumible"
+    ]
+  },
+  {
+    "id": "HE-013",
+    "nombre": "Mezclador eléctrico 1200 W",
+    "categoria": "Herramientas eléctricas",
+    "marca": "Gamma",
+    "precio": 198000,
+    "stock": 1,
+    "descripcion": "Velocidad variable para preparar pintura y adhesivos.",
+    "etiquetas": [
+      "últimas unidades"
+    ]
+  },
+  {
+    "id": "PL-008",
+    "nombre": "Juego de grifería para baño cromo",
+    "categoria": "Plomería",
+    "marca": "FV",
+    "precio": 159900,
+    "stock": 3,
+    "descripcion": "Conjunto de lavatorio, ducha y accesorios cromados.",
+    "etiquetas": [
+      "baño"
+    ]
+  },
+  {
+    "id": "PL-009",
+    "nombre": "Flexible mallado 60 cm 1/2 pulgada",
+    "categoria": "Plomería",
+    "marca": "Hidro 3",
+    "precio": 7900,
+    "stock": 19,
+    "descripcion": "Malla de acero inoxidable para conexión sanitaria.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "PL-010",
+    "nombre": "Codo PVC 90 grados 40 mm",
+    "categoria": "Plomería",
+    "marca": "Awaduct",
+    "precio": 1350,
+    "stock": 32,
+    "descripcion": "Accesorio para desagüe con encastre preciso.",
+    "etiquetas": [
+      "PVC"
+    ]
+  },
+  {
+    "id": "PL-011",
+    "nombre": "Llave de paso esférica 1/2 pulgada",
+    "categoria": "Plomería",
+    "marca": "FV",
+    "precio": 11900,
+    "stock": 12,
+    "descripcion": "Corte de agua con cuerpo metálico y manija compacta.",
+    "etiquetas": [
+      "repuesto"
+    ]
+  },
+  {
+    "id": "PL-012",
+    "nombre": "Cinta sellaroscas alta densidad",
+    "categoria": "Plomería",
+    "marca": "Tacsa",
+    "precio": 2900,
+    "stock": 24,
+    "descripcion": "Cinta PTFE para sellar uniones roscadas de agua y gas.",
+    "etiquetas": [
+      "consumible"
+    ]
+  },
+  {
+    "id": "PL-013",
+    "nombre": "Flotante para tanque reforzado",
+    "categoria": "Plomería",
+    "marca": "Hidro 3",
+    "precio": 9800,
+    "stock": 5,
+    "descripcion": "Válvula de llenado regulable para tanque de reserva.",
+    "etiquetas": [
+      "repuesto"
+    ]
+  },
+  {
+    "id": "EL-008",
+    "nombre": "Tomacorriente exterior con tapa IP55",
+    "categoria": "Electricidad",
+    "marca": "Cambre",
+    "precio": 13900,
+    "stock": 8,
+    "descripcion": "Protección contra polvo y salpicaduras para exterior.",
+    "etiquetas": [
+      "exterior"
+    ]
+  },
+  {
+    "id": "EL-009",
+    "nombre": "Cable unipolar 1,5 mm azul 10 m",
+    "categoria": "Electricidad",
+    "marca": "Prysmian",
+    "precio": 8900,
+    "stock": 16,
+    "descripcion": "Conductor normalizado para circuitos de iluminación.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "EL-010",
+    "nombre": "Caja rectangular para embutir",
+    "categoria": "Electricidad",
+    "marca": "Kalop",
+    "precio": 1200,
+    "stock": 40,
+    "descripcion": "Caja plástica autoextinguible para instalación embutida.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "EL-011",
+    "nombre": "Térmica unipolar 16 A",
+    "categoria": "Electricidad",
+    "marca": "Sica",
+    "precio": 10900,
+    "stock": 9,
+    "descripcion": "Protección termomagnética para circuitos domiciliarios.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "EL-012",
+    "nombre": "Tira LED cálida 5 m con fuente",
+    "categoria": "Electricidad",
+    "marca": "Macroled",
+    "precio": 28900,
+    "stock": 7,
+    "descripcion": "Iluminación decorativa autoadhesiva para interiores.",
+    "etiquetas": [
+      "iluminación"
+    ]
+  },
+  {
+    "id": "EL-013",
+    "nombre": "Llave de luz doble blanca",
+    "categoria": "Electricidad",
+    "marca": "Cambre",
+    "precio": 4800,
+    "stock": 18,
+    "descripcion": "Módulo de dos puntos para línea estándar domiciliaria.",
+    "etiquetas": [
+      "instalación"
+    ]
+  },
+  {
+    "id": "PI-008",
+    "nombre": "Látex exterior impermeable 20 L",
+    "categoria": "Pinturas",
+    "marca": "Tersuave",
+    "precio": 119000,
+    "stock": 4,
+    "descripcion": "Protección frente a lluvia y sol con acabado mate.",
+    "etiquetas": [
+      "exterior"
+    ]
+  },
+  {
+    "id": "PI-009",
+    "nombre": "Membrana líquida fibrada 20 kg",
+    "categoria": "Pinturas",
+    "marca": "Plavicon",
+    "precio": 98500,
+    "stock": 3,
+    "descripcion": "Impermeabilizante elastomérico para techos y terrazas.",
+    "etiquetas": [
+      "impermeabilización"
+    ]
+  },
+  {
+    "id": "PI-010",
+    "nombre": "Aguarrás mineral 1 L",
+    "categoria": "Pinturas",
+    "marca": "Alba",
+    "precio": 7900,
+    "stock": 13,
+    "descripcion": "Diluyente para esmaltes sintéticos y limpieza de herramientas.",
+    "etiquetas": [
+      "diluyente"
+    ]
+  },
+  {
+    "id": "PI-011",
+    "nombre": "Bandeja para pintura mediana",
+    "categoria": "Pinturas",
+    "marca": "Doble A",
+    "precio": 4900,
+    "stock": 12,
+    "descripcion": "Bandeja resistente con zona de escurrido para rodillos.",
+    "etiquetas": [
+      "accesorio"
+    ]
+  },
+  {
+    "id": "PI-012",
+    "nombre": "Enduido exterior 4 L",
+    "categoria": "Pinturas",
+    "marca": "Tersuave",
+    "precio": 21900,
+    "stock": 5,
+    "descripcion": "Masilla para reparar pequeñas grietas en muros exteriores.",
+    "etiquetas": [
+      "exterior"
+    ]
+  },
+  {
+    "id": "PI-013",
+    "nombre": "Convertidor de óxido negro 1 L",
+    "categoria": "Pinturas",
+    "marca": "Alba",
+    "precio": 19900,
+    "stock": 8,
+    "descripcion": "Protege superficies ferrosas y prepara para pintar.",
+    "etiquetas": [
+      "metal"
+    ]
+  },
+  {
+    "id": "JA-006",
+    "nombre": "Manguera reforzada 1/2 pulgada 25 m",
+    "categoria": "Jardín",
+    "marca": "Kushiro",
+    "precio": 48900,
+    "stock": 4,
+    "descripcion": "Manguera flexible de largo alcance para jardín y patio.",
+    "etiquetas": [
+      "riego"
+    ]
+  },
+  {
+    "id": "JA-007",
+    "nombre": "Pala ancha con cabo de madera",
+    "categoria": "Jardín",
+    "marca": "Tramontina",
+    "precio": 24500,
+    "stock": 3,
+    "descripcion": "Hoja de acero para mover tierra, arena y materiales.",
+    "etiquetas": [
+      "jardinería"
+    ]
+  },
+  {
+    "id": "JA-008",
+    "nombre": "Rastrillo metálico 14 dientes",
+    "categoria": "Jardín",
+    "marca": "Tramontina",
+    "precio": 17800,
+    "stock": 6,
+    "descripcion": "Para juntar hojas y nivelar canteros con facilidad.",
+    "etiquetas": [
+      "jardinería"
+    ]
+  },
+  {
+    "id": "JA-009",
+    "nombre": "Conector rápido para manguera 1/2 pulgada",
+    "categoria": "Jardín",
+    "marca": "Kushiro",
+    "precio": 3800,
+    "stock": 25,
+    "descripcion": "Acople universal para conectar accesorios de riego.",
+    "etiquetas": [
+      "riego"
+    ]
+  },
+  {
+    "id": "JA-010",
+    "nombre": "Bordeadora eléctrica 350 W",
+    "categoria": "Jardín",
+    "marca": "Gamma",
+    "precio": 74900,
+    "stock": 2,
+    "descripcion": "Liviana para mantener bordes y rincones del jardín.",
+    "etiquetas": [
+      "últimas unidades"
+    ]
+  },
+  {
+    "id": "JA-011",
+    "nombre": "Semillas de césped mezcla reparadora 1 kg",
+    "categoria": "Jardín",
+    "marca": "Germinal",
+    "precio": 15500,
+    "stock": 9,
+    "descripcion": "Mezcla para renovar sectores pequeños de césped.",
+    "etiquetas": [
+      "jardinería"
+    ]
+  },
+  {
+    "id": "FI-006",
+    "nombre": "Tornillo autoperforante cabeza hexagonal (50 u)",
+    "categoria": "Fijaciones",
+    "marca": "Fixser",
+    "precio": 11900,
+    "stock": 13,
+    "descripcion": "Fijación rápida de chapa y perfiles metálicos.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "FI-007",
+    "nombre": "Tarugo Fischer DuoPower 6 mm (50 u)",
+    "categoria": "Fijaciones",
+    "marca": "Fischer",
+    "precio": 7900,
+    "stock": 15,
+    "descripcion": "Anclaje versátil para distintos materiales de construcción.",
+    "etiquetas": [
+      "kit"
+    ]
+  },
+  {
+    "id": "FI-008",
+    "nombre": "Bisagra libro zincada 3 pulgadas (2 u)",
+    "categoria": "Fijaciones",
+    "marca": "Trabex",
+    "precio": 4800,
+    "stock": 10,
+    "descripcion": "Bisagra de acero para puertas, muebles y reparaciones.",
+    "etiquetas": [
+      "herrajes"
+    ]
+  },
+  {
+    "id": "FI-009",
+    "nombre": "Pitón cerrado zincado 8 mm",
+    "categoria": "Fijaciones",
+    "marca": "Fixser",
+    "precio": 1150,
+    "stock": 18,
+    "descripcion": "Punto de anclaje para colgar elementos en pared o madera.",
+    "etiquetas": [
+      "fijación"
+    ]
+  },
+  {
+    "id": "FI-010",
+    "nombre": "Remache pop aluminio 4 mm (100 u)",
+    "categoria": "Fijaciones",
+    "marca": "Fixser",
+    "precio": 6900,
+    "stock": 11,
+    "descripcion": "Unión permanente para chapas y perfiles livianos.",
+    "etiquetas": [
+      "kit"
+    ]
+  },
+  {
+    "id": "FI-011",
+    "nombre": "Cadena galvanizada por metro 4 mm",
+    "categoria": "Fijaciones",
+    "marca": "Acindar",
+    "precio": 5200,
+    "stock": 14,
+    "descripcion": "Cadena resistente para sujeción y usos generales.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "SE-006",
+    "nombre": "Guantes de descarne reforzados",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 7900,
+    "stock": 14,
+    "descripcion": "Protección de manos para tareas de construcción y carga.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "SE-007",
+    "nombre": "Casco de seguridad blanco con arnés",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 19900,
+    "stock": 5,
+    "descripcion": "Protección craneana con arnés interior regulable.",
+    "etiquetas": [
+      "obra"
+    ]
+  },
+  {
+    "id": "SE-008",
+    "nombre": "Máscara para soldar fotosensible",
+    "categoria": "Seguridad",
+    "marca": "Bremen",
+    "precio": 69900,
+    "stock": 2,
+    "descripcion": "Visor automático con regulación de sensibilidad.",
+    "etiquetas": [
+      "soldadura"
+    ]
+  },
+  {
+    "id": "SE-009",
+    "nombre": "Botín de seguridad punta de acero talle 42",
+    "categoria": "Seguridad",
+    "marca": "Funcional",
+    "precio": 58900,
+    "stock": 4,
+    "descripcion": "Calzado de trabajo con suela antideslizante y puntera.",
+    "etiquetas": [
+      "calzado"
+    ]
+  },
+  {
+    "id": "SE-010",
+    "nombre": "Faja lumbar elástica talle universal",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 18900,
+    "stock": 8,
+    "descripcion": "Soporte lumbar para tareas de esfuerzo y movimiento.",
+    "etiquetas": [
+      "protección"
+    ]
+  },
+  {
+    "id": "SE-011",
+    "nombre": "Cinta de peligro amarilla y negra 200 m",
+    "categoria": "Seguridad",
+    "marca": "Libus",
+    "precio": 12900,
+    "stock": 7,
+    "descripcion": "Señalización visual para delimitar zonas de trabajo.",
+    "etiquetas": [
+      "señalización"
+    ]
+  }
+]
